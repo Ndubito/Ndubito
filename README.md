@@ -15,7 +15,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:acharnathan1@gmail.com">
+  <a href="acharnathan1@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="50" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
