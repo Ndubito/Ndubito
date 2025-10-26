@@ -24,10 +24,10 @@
   </a>
 </p>
 
-<h1 align="center">
+<p align="center">
 <img height="400" width="700" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hhM2JyMmN0dXRvcGQyYnhlNnEwdG95ejNvMGd5MHp5dGpxdmJoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif"> 
 </img>
-</h1>
+</p>
 
 ```yaml
 
