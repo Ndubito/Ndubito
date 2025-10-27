@@ -1,6 +1,6 @@
-<h1 align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%There&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20To%20My%20Profile!&descAlignY=51&descAlign=62"/>
-</h1>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hey%There!&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20To%20My%20Profile&descAlignY=51&descAlign=62"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=915EFF&center=true&vCenter=true&width=435&lines=Connect+With+Me!+💫" alt="Connect With Me">
@@ -34,7 +34,7 @@
 name: Nathan Achar
 located_in: Nairobi, Kenya
 current_job: Student
-education:[Bachelors in  Informatics and Compputer Science]
+education:[Bachelors in  Informatics and Computer Science]
 company: N/A
 
 fields_of_interest:
@@ -45,6 +45,6 @@ fields_of_interest:
 ]
 currently_learning:["Docker, Java, Python and JavaScript"]
 2025_goals:["Create 2 new project and Learn at least 3 new AI technologies"]
-hobbies:["Gaming", "Cooking", "Golf", "Basketball"]
+hobbies:["Cooking, Golf, Basketball"]
 
 ```
